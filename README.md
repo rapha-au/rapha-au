@@ -3,9 +3,6 @@
 
 
 
-<center><img src="https://github.com/user-attachments/assets/102ea583-537a-4a5d-b734-c1b5bc0fa487" width="200" height="200"></center>
-
-
 
 
 <!---
